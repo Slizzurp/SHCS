@@ -2,6 +2,7 @@ import hashlib
 import time
 import random
 import threading
+import hot-sync
 
 class CentralBurnCore:
     """ Governs the security system, monitoring and eliminating threats in real-time """
