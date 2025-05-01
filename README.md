@@ -13,6 +13,6 @@ SHCS is an AI-driven **autonomous cybersecurity framework** designed to implemen
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/SHCS.git
+git clone https://github.com/slizzurp/SHCS.git
 cd SHCS
 pip install -r requirements.txt
