@@ -5,7 +5,7 @@ SHCS is an AI-driven **autonomous cybersecurity framework** designed to implemen
 
 ## Key Features
 - **Zero Trust Security Model** ensuring strict authentication compliance.
-- **Hot-Sync Router Protection**, integrating Wi-Fi bandwidth into secured networks.
+- **Hot-Sync Router Protection**, integrating Wi-Fi bandwidth into a single set of secured networks.
 - **AI Threat Elimination** for malware preemptive removal before execution.
 - **Merge-Integration verification** securing **high-risk data transmissions**.
 - **DNA-Based Authentication Gateway** replacing password systems with **biometric encryption**.
